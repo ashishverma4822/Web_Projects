@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function () {
                   adjustFontSize();
               }
           } catch (error) {
-              handleError('Error: Syntex Error');
+              handleError('Error: Syntax Error');
           }
       });
   });
