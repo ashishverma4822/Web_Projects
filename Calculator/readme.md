@@ -1,1 +1,1 @@
-View LInk : - https://calc-ashishverma4822.netlify.app/
+View LInk : - https://calculator-ashishverma4822.netlify.app/
